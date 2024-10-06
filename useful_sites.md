@@ -6,6 +6,7 @@
 
 - [oi-wiki](https://oi-wiki.org)
 - [en-wiki](https://cp-algorithms.com)
+- [visual-wiki](https://visualgo.net/en)
 
 ## Practicing Sites
 
